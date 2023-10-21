@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+  cout<<"hello eveyone today is my first day"<<endl;
+return0;
+}
